@@ -366,6 +366,7 @@ border-radius: 25px;}
 .footer .contact .col-md-8{margin-top: 60px;}
 .footer .contact .col-md-8 ul li {padding-top: 20px;}
 .footer .contact .col-md-8 ul li a{color: #2f2f2f; font-size: 15px;}
+@media(max-width: 767px){.footer .contact .col-md-8 ul li a{color: #2f2f2f; font-size: 12px;}
 .footer .contact .col-md-8 ul li a:hover{color: var(--parg-color1);}
 .footer .End{padding-top: 20px; margin-top: 45px; border-top: 1px solid var(--before-color2);}
 .footer .End span,p{color: var(--parg-color1);}
